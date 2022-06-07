@@ -1,6 +1,6 @@
 <div align="center">
 
-# react_Calculator_
+# react_Calculator
 
 ### _This is a simple calculator application built with React.js._
 </div>
