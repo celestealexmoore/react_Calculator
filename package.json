@@ -2,7 +2,7 @@
   "name": "react-calendar",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://celestealexmoore.github.io/react_Calculator_/",
+  "homepage": "https://celestealexmoore.github.io",
   "dependencies": {
     "-": "0.0.1",
     "@testing-library/jest-dom": "^5.16.4",
