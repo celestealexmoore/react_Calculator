@@ -27,7 +27,7 @@
 
 ## Deployed Site
 
-   [Here is the link to the deployed application.](https://celestealexmoore.github.io/react_Calculator_/)
+   [Here is the link to the deployed application.](https://celestealexmoore.github.io/react_Calculator/)
 
 ## Features
     - Single-page application built with HTML, CSS, and React.
